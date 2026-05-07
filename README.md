@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 ## 📚 我的仓库分类导航
 
 ### 🎯 个人项目
-- [**955.WLB**](https://github.com/jared0612/955.WLB) - 955 不加班的公司名单
 - [**Chatbox-with-deepseek**](https://github.com/jared0612/Chatbox-with-deepseek) - 支持通用OpenAPI的AI聊天界面，支持实时对话和流式响应
 - [**blog**](https://github.com/jared0612/blog) - 个人博客
 - [**jared0612.github.io**](https://github.com/jared0612/jared0612.github.io) - GitHub Pages 个人主页
@@ -58,6 +57,7 @@ Here are some ideas to get you started:
 - [**opencv**](https://github.com/jared0612/opencv) - Open Source Computer Vision Library
 - [**dragon**](https://github.com/jared0612/dragon) - Fork 项目
 - [**emulationWORK**](https://github.com/jared0612/emulationWORK) - 模拟器工作项目
+- [**955.WLB**](https://github.com/jared0612/955.WLB) - 955 不加班的公司名单
 
 ---
 
