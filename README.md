@@ -17,6 +17,16 @@ Here are some ideas to get you started:
 
 ---
 
+## 😂 今日笑话
+
+> **Setup:** Why don't scientists trust atoms?
+>
+> **Punchline:** Because they make up everything!
+
+*💡 每次访问此页面时，笑话会随机更新 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)*
+
+---
+
 ## 📚 我的仓库分类导航
 
 ### 🎯 个人项目
@@ -29,7 +39,7 @@ Here are some ideas to get you started:
 
 ### 💡 算法与数据结构
 - [**awesome-algorithm**](https://github.com/jared0612/awesome-algorithm) - LeetCode, HackRank, 剑指offer, classic algorithm implementation
-- [**Algorithm_Interview_Notes-Chinese**](https://github.com/jared0612/Algorithm_Interview_Notes-Chinese) - 2018/2019/��招/春招/秋招/算法/机器学习/深度学习/自然语言处理/C/C++/Python/面试笔记
+- [**Algorithm_Interview_Notes-Chinese**](https://github.com/jared0612/Algorithm_Interview_Notes-Chinese) - 2018/2019/校招/春招/秋招/算法/机器学习/深度学习/自然语言处理/C/C++/Python/面试笔记
 - [**Interview-code-practice-python**](https://github.com/jared0612/Interview-code-practice-python) - Python 面试题
 - [**interview_python**](https://github.com/jared0612/interview_python) - 关于Python的面试题
 - [**interactive-coding-challenges**](https://github.com/jared0612/interactive-coding-challenges) - 120+ interactive Python coding interview challenges
