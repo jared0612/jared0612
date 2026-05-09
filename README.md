@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 >
 > **Punchline:** Because they make up everything!
 
-*💡 每次访问此页面时，笑话会随机更新 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)*
+
 
 ---
 
