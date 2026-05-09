@@ -25,10 +25,11 @@ Here are some ideas to get you started:
 - [**jared0612.github.io**](https://github.com/jared0612/jared0612.github.io) - GitHub Pages 个人主页
 - [**common**](https://github.com/jared0612/common) - 开发常用配置文件
 - [**onePiece**](https://github.com/jared0612/onePiece) - 个人项目
+- [**joke-generator.js**](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) - 随机笑话生成器（使用 JokeAPI）
 
 ### 💡 算法与数据结构
 - [**awesome-algorithm**](https://github.com/jared0612/awesome-algorithm) - LeetCode, HackRank, 剑指offer, classic algorithm implementation
-- [**Algorithm_Interview_Notes-Chinese**](https://github.com/jared0612/Algorithm_Interview_Notes-Chinese) - 2018/2019/校招/春招/秋招/算法/机器学习/深度学习/自然语言处理/C/C++/Python/面试笔记
+- [**Algorithm_Interview_Notes-Chinese**](https://github.com/jared0612/Algorithm_Interview_Notes-Chinese) - 2018/2019/��招/春招/秋招/算法/机器学习/深度学习/自然语言处理/C/C++/Python/面试笔记
 - [**Interview-code-practice-python**](https://github.com/jared0612/Interview-code-practice-python) - Python 面试题
 - [**interview_python**](https://github.com/jared0612/interview_python) - 关于Python的面试题
 - [**interactive-coding-challenges**](https://github.com/jared0612/interactive-coding-challenges) - 120+ interactive Python coding interview challenges
