@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 >
 > **Punchline:** A paraplegic after a house fire.
 
-*💡 更新于: 2026/05/12 19:55:21 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)*
+💡 更新于: 2026/05/12 19:55:21 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
 ---
 
 ## 📰 最近更新
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 | 项目 | 描述 | 状态 |
 |------|------|------|
 | 📚 **仓库整理导航** | 整理并分类了账号中所有仓库，包括自创、Fork 和 Starred 的项目，支持一键访问 | ✅ 完成 |
-| 🎭 **笑话生成器** | 创建了支持 JokeAPI 的随机笑话生成器，可自动每小时更新 README 中的笑话 | ✅ 完成 |
+| 🎭 **笑话生成器** | 创建了支持 JokeAPI 的随机笑话生成器，可自动每10分钟更新 README 中的笑话 | ✅ 完成 |
 | 🎨 **README 美化** | 重新设计 README 排版，采用分类导航和实时笑话展示的新布局 | ✅ 完成 |
 
 **主要成就：**
