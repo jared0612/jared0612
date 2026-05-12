@@ -19,11 +19,9 @@ Here are some ideas to get you started:
 
 ## 😂 今日笑话
 
-> **Setup:** What kind of motorbike does Santa ride?
->
-> **Punchline:** A Holly Davidson!
+> Yo mama is so old, she knew Burger King while he was still a prince.
 
-💡 更新于: 2026/05/13 04:12:11 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
+💡 更新于: 2026/05/13 05:44:14 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
 ---
 
 ## 📰 最近更新
