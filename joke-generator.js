@@ -80,7 +80,7 @@ async function updateReadmeWithJoke(joke) {
 
 ${jokeMarkdown}
 
-*💡 更新于: ${timestamp} (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)*`;
+💡 更新于: ${timestamp} (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)`;
     
     // Replace the joke section in README
     const jokeRegex = /## 😂 今日笑话[\s\S]*?(?=\n---)/;
