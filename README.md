@@ -19,11 +19,9 @@ Here are some ideas to get you started:
 
 ## 😂 今日笑话
 
-> **Setup:** What's black and sits at the top of a stairwell?
->
-> **Punchline:** A paraplegic after a house fire.
+> I hate double standards. Burn a body at a crematorium, you're "being a respectful friend." Do it at home and you're "destroying evidence."
 
-💡 更新于: 2026/05/12 19:55:21 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
+💡 更新于: 2026/05/12 21:27:27 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
 ---
 
 ## 📰 最近更新
