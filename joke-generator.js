@@ -8,7 +8,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Configuration
-const JOKE_API_URL = 'https://v2.jokeapi.dev/joke/Any';
+const JOKE_API_URL = 'https://v2.jokeapi.dev/joke/Any?blacklistFlags=nsfw,religious,political,racist,sexist,explicit';
 const README_PATH = path.join(__dirname, 'README.md');
 
 /**
