@@ -1,0 +1,24 @@
+name: 🎭 Update Joke Daily
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-joke:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+      - run: node joke-generator.js
+      - run: |
+          git config user.name "Joke Bot"
+          git config user.email "bot@github.com"
+          git add README.md
+          git diff --quiet || (git commit -m "🎭 自动更新笑话" && git push)
