@@ -1,6 +1,6 @@
 /**
  * Random Joke Generator using JokeAPI
- * Fetches a random joke every hour and updates the README
+ * Fetches a random joke and updates the README
  * https://jokeapi.dev/
  */
 
@@ -10,7 +10,6 @@ const path = require('path');
 // Configuration
 const JOKE_API_URL = 'https://v2.jokeapi.dev/joke/Any';
 const README_PATH = path.join(__dirname, 'README.md');
-const INTERVAL = 60 * 60 * 1000; // 1 hour in milliseconds
 
 /**
  * Fetch a random joke from the API
@@ -33,7 +32,7 @@ async function getRandomJoke() {
     
     return joke;
   } catch (error) {
-    console.error('Failed to fetch joke:', error);
+    console.error('❌ Failed to fetch joke:', error.message);
     throw error;
   }
 }
@@ -67,7 +66,15 @@ async function updateReadmeWithJoke(joke) {
     
     // Format the new joke section
     const jokeMarkdown = formatJoke(joke);
-    const timestamp = new Date().toLocaleString('zh-CN');
+    const timestamp = new Date().toLocaleString('zh-CN', { 
+      timeZone: 'Asia/Shanghai',
+      year: 'numeric',
+      month: '2-digit',
+      day: '2-digit',
+      hour: '2-digit',
+      minute: '2-digit',
+      second: '2-digit'
+    });
     
     const jokeSection = `## 😂 今日笑话
 
@@ -91,57 +98,44 @@ ${jokeMarkdown}
     // Write updated content back to README
     fs.writeFileSync(README_PATH, readmeContent, 'utf-8');
     
-    console.log(`✅ [${timestamp}] README updated with new joke!`);
-    console.log(`📝 Joke: ${joke.type === 'twopart' ? joke.setup : joke.joke}\n`);
+    console.log(`✅ [${timestamp}] README 已更新新笑话！`);
+    console.log(`📝 笑话: ${joke.type === 'twopart' ? joke.setup : joke.joke}\n`);
+    return true;
   } catch (error) {
-    console.error('Failed to update README:', error);
+    console.error('❌ Failed to update README:', error.message);
+    return false;
   }
 }
 
 /**
- * Generate and update joke every hour
+ * Main function - 一次性运行（适合 GitHub Actions）
  */
-async function startJokeScheduler() {
-  console.log('🎭 Joke Generator Started!');
-  console.log(`⏰ Will generate a new joke every hour\n`);
-  
-  // Generate immediately on startup
+async function main() {
   try {
-    const joke = await getRandomJoke();
-    await updateReadmeWithJoke(joke);
-  } catch (error) {
-    console.error('❌ Initial joke generation failed:', error.message);
-  }
-  
-  // Schedule subsequent jokes every hour
-  setInterval(async () => {
-    try {
-      const joke = await getRandomJoke();
-      await updateReadmeWithJoke(joke);
-    } catch (error) {
-      console.error('❌ Failed to generate joke:', error.message);
+    // Check if README exists
+    if (!fs.existsSync(README_PATH)) {
+      console.error('❌ README.md not found!');
+      process.exit(1);
     }
-  }, INTERVAL);
-}
-
-/**
- * Main function
- */
-function main() {
-  // Check if README exists
-  if (!fs.existsSync(README_PATH)) {
-    console.error('❌ README.md not found!');
+    
+    console.log('🎭 开始生成笑话...\n');
+    
+    // Generate joke
+    const joke = await getRandomJoke();
+    
+    // Update README
+    const success = await updateReadmeWithJoke(joke);
+    
+    if (!success) {
+      process.exit(1);
+    }
+    
+    console.log('✨ 笑话生成完成！');
+    process.exit(0);
+  } catch (error) {
+    console.error('❌ 错误:', error.message);
     process.exit(1);
   }
-  
-  // Start the scheduler
-  startJokeScheduler();
-  
-  // Keep the process running
-  process.on('SIGINT', () => {
-    console.log('\n\n👋 Joke Generator stopped.');
-    process.exit(0);
-  });
 }
 
 // Run the generator
