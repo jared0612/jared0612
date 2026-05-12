@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 >
 > **Punchline:** Because they make up everything!
 
-*💡 每小时自动更新 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)*
+*💡 每十分钟自动更新 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)*
 
 ---
 
@@ -178,5 +178,5 @@ Here are some ideas to get you started:
 
 **💫 提示：** 
 - 点击仓库名称可直接访问
-- 笑话每小时自动更新一次
+- 笑话每十分钟自动更新一次
 - 欢迎 Star ⭐ 和 Fork 我的仓库！
