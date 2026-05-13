@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 
 ## 😂 今日笑话
 
-> Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.
+> **Setup:** What's the object-oriented way to become wealthy?
+>
+> **Punchline:** Inheritance.
 
-💡 更新于: 2026/05/13 22:47:11 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
+💡 更新于: 2026/05/14 01:05:28 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
 ---
 
 ## 📰 最近更新
