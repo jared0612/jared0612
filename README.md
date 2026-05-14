@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 ## 😂 今日笑话
 
-> **Setup:** "99.9% of the people are dumb!"
+> **Setup:** Why did the programmer quit his job?
 >
-> **Punchline:** "Fortunately I belong to the remaining 1%"
+> **Punchline:** Because he didn't get arrays.
 
-💡 更新于: 2026/05/14 20:17:57 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
+💡 更新于: 2026/05/14 23:01:31 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
 ---
 
 ## 📰 最近更新
