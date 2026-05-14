@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 ## 😂 今日笑话
 
-> **Setup:** I'm not saying my son is ugly...
+> **Setup:** "99.9% of the people are dumb!"
 >
-> **Punchline:** But on Halloween he went to tell the neighbors to turn down their TV and they gave him some candy.
+> **Punchline:** "Fortunately I belong to the remaining 1%"
 
-💡 更新于: 2026/05/14 18:37:55 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
+💡 更新于: 2026/05/14 20:17:57 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
 ---
 
 ## 📰 最近更新
