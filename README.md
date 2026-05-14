@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 ## 😂 今日笑话
 
-> **Setup:** Why did the programmer quit his job?
+> **Setup:** What do you call a deer with no eyes?
 >
-> **Punchline:** Because he didn't get arrays.
+> **Punchline:** No eye deer.
 
-💡 更新于: 2026/05/14 23:01:31 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
+💡 更新于: 2026/05/15 01:07:46 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
 ---
 
 ## 📰 最近更新
