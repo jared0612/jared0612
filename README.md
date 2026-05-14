@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 ## 😂 今日笑话
 
-> **Setup:** Why is 6 afraid of 7 in hexadecimal Canada?
+> **Setup:** I'm not saying my son is ugly...
 >
-> **Punchline:** Because 7 8 9 A?
+> **Punchline:** But on Halloween he went to tell the neighbors to turn down their TV and they gave him some candy.
 
-💡 更新于: 2026/05/14 16:16:44 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
+💡 更新于: 2026/05/14 18:37:55 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
 ---
 
 ## 📰 最近更新
