@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 ## 😂 今日笑话
 
-> **Setup:** Why is Linux safe?
+> **Setup:** Why shouldn't you visit an expensive wig shop?
 >
-> **Punchline:** Hackers peak through Windows only.
+> **Punchline:** It's too high a price "toupee."
 
-💡 更新于: 2026/05/14 07:34:08 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
+💡 更新于: 2026/05/14 09:31:35 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
 ---
 
 ## 📰 最近更新
