@@ -19,11 +19,15 @@ Here are some ideas to get you started:
 
 ## 😂 今日笑话
 
-> **Setup:** Why shouldn't you visit an expensive wig shop?
->
-> **Punchline:** It's too high a price "toupee."
+> The six stages of debugging:
+1. That can't happen.
+2. That doesn't happen on my machine.
+3. That shouldn't happen.
+4. Why does that happen?
+5. Oh, I see.
+6. How did that ever work?
 
-💡 更新于: 2026/05/14 09:31:35 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
+💡 更新于: 2026/05/14 13:32:22 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
 ---
 
 ## 📰 最近更新
