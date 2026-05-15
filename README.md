@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 ## 😂 今日笑话
 
-> **Setup:** Why do Java programmers hate communism?
+> **Setup:** Did you hear about the claustrophobic astronaut?
 >
-> **Punchline:** They don't want to live in a classless society.
+> **Punchline:** He just needed a little space.
 
-💡 更新于: 2026/05/15 08:08:34 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
+💡 更新于: 2026/05/15 12:18:23 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
 ---
 
 ## 📰 最近更新
