@@ -19,11 +19,13 @@ Here are some ideas to get you started:
 
 ## 😂 今日笑话
 
-> **Setup:** Why did the JavaScript heap close shop?
->
-> **Punchline:** It ran out of memory.
+> Two C strings walk into a bar.
+The bartender asks "What can I get ya?"
+The first string says "I'll have a gin and tonic."
+The second string thinks for a minute, then says "I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@"
+The first string apologizes, "You'll have to excuse my friend, he's not null-terminated."
 
-💡 更新于: 2026/05/15 22:36:42 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
+💡 更新于: 2026/05/16 00:25:29 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
 ---
 
 ## 📰 最近更新
