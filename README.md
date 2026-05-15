@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 ## 😂 今日笑话
 
-> **Setup:** What does Santa suffer from if he gets stuck in a chimney?
+> **Setup:** Why do Java programmers hate communism?
 >
-> **Punchline:** Claustrophobia!
+> **Punchline:** They don't want to live in a classless society.
 
-💡 更新于: 2026/05/15 07:03:49 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
+💡 更新于: 2026/05/15 08:08:34 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
 ---
 
 ## 📰 最近更新
