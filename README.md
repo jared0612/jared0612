@@ -19,11 +19,10 @@ Here are some ideas to get you started:
 
 ## 😂 今日笑话
 
-> **Setup:** Did you hear about the claustrophobic astronaut?
->
-> **Punchline:** He just needed a little space.
+> A SQL statement walks into a bar and sees two tables.
+It approaches, and asks "may I join you?"
 
-💡 更新于: 2026/05/15 12:18:23 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
+💡 更新于: 2026/05/15 15:39:34 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
 ---
 
 ## 📰 最近更新
