@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 ## 😂 今日笑话
 
-> **Setup:** What time did the man go to the dentist?
+> **Setup:** Why do front end developers eat lunch alone?
 >
-> **Punchline:** Tooth hurt-y.
+> **Punchline:** Because they don't know how to join tables.
 
-💡 更新于: 2026/05/16 18:01:27 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
+💡 更新于: 2026/05/16 19:16:55 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
 ---
 
 ## 📰 最近更新
