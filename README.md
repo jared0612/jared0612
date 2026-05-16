@@ -1,164 +1,102 @@
-
-
 <!--
-**jared0612/jared0612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jared0612/jared0612** is a ✨ _special_ ✨ repository because its `README.md (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+You can click [here](https://github-readme-stats.vercel.app/api?username=jared0612) to view your detailed GitHub stats!
 -->
-
-
 
 ## 😂 今日笑话
 
-> **Setup:** I was feeling depressed, my wife put her hand on my back and said "Earth."
+> **Setup:** My wife told me to stop impersonating a flamingo. I had to put my foot down.
 >
-> **Punchline:** It meant the world to me.
+> **Punchline:** Well, she didn't appreciate me standing around all day looking like a bird and eating raw fish.
 
 💡 更新于: 2026/05/16 22:02:11 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
+
 ---
 
-##  我的仓库分类导航
+## 🎯 我的仓库分类导航
 
-### 🎯 个人项目 (6个)
-<table>
-<tr>
-<td width="50%">
+### 📚 考研学习 (最近活跃)
 
-- [**Chatbox-with-deepseek**](https://github.com/jared0612/Chatbox-with-deepseek) - AI聊天界面
-- [**blog**](https://github.com/jared0612/blog) - 个人博客
-- [**joke-generator.js**](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) - 笑话生成器 ⭐ NEW
+| 仓库 | 描述 | 创建时间 |
+|------|------|----------|
+| [**Kaoyan-Study**](https://github.com/jared0612/Kaoyan-Study) | 考研学习资料整理 | 2026-05-16 🆕 |
+| [**2027-Math1-Study-Notes**](https://github.com/jared0612/2027-Math1-Study-Notes) | 考研数学一学习笔记 | 2026-05-14 🆕 |
+| [**950612**](https://github.com/jared0612/950612) | 延毕学生的学习记录与思考 | 2020-09-14 |
 
-</td>
-<td width="50%">
+### 🤖 AI 与工具开发
 
-- [**jared0612.github.io**](https://github.com/jared0612/jared0612.github.io) - GitHub Pages
-- [**common**](https://github.com/jared0612/common) - 常用配置
-- [**onePiece**](https://github.com/jared0612/onePiece) - 个人项目
+| 仓库 | 描述 | 语言 |
+|------|------|------|
+| [**Chatbox-with-deepseek**](https://github.com/jared0612/Chatbox-with-deepseek) ⭐5 | 支持通用OpenAPI的AI聊天界面，支持实时对话和流式响应 | JavaScript |
+| [**jared0612.github.io**](https://github.com/jared0612/jared0612.github.io) | 个人网站/GitHub Pages | HTML |
+| [**common**](https://github.com/jared0612/common) | 开发常用配置文件收集 | Shell |
+| [**project**](https://github.com/jared0612/project) | 项目模板与脚手架 | Makefile |
 
-</td>
-</tr>
-</table>
+### 💻 编程练习
 
-### 💡 算法与数据结构 (6个)
-<table>
-<tr>
-<td width="50%">
+| 仓库 | 描述 | 语言 |
+|------|------|------|
+| [**practiceCPP**](https://github.com/jared0612/practiceCPP) | C++ 编程练习 | C |
+| [**teach-myself-cpp**](https://github.com/jared0612/teach-myself-cpp) | 自学 C++ 笔记与代码 | - |
+| [**blog**](https://github.com/jared0612/blog) | 个人技术博客 | HTML |
 
-- [**awesome-algorithm**](https://github.com/jared0612/awesome-algorithm) - LeetCode/剑指offer
-- [**Algorithm_Interview_Notes-Chinese**](https://github.com/jared0612/Algorithm_Interview_Notes-Chinese) - 面试笔记
-- [**Interview-code-practice-python**](https://github.com/jared0612/Interview-code-practice-python) - Python 面试题
+### 🌟 资源整理
 
-</td>
-<td width="50%">
+| 仓库 | 描述 |
+|------|------|
+| [**awesome-developer**](https://github.com/jared0612/awesome-developer) | 从开发视角整理的学习资源、awesome仓库、安全开源软件 |
+| [**awesome-iot**](https://github.com/jared0612/awesome-iot) | IoT 资源整理 |
 
-- [**interview_python**](https://github.com/jared0612/interview_python) - Python 面试进阶
-- [**interactive-coding-challenges**](https://github.com/jared0612/interactive-coding-challenges) - 120+ 编码挑战
-- [**grokking_algorithms**](https://github.com/jared0612/grokking_algorithms) - 算法书代码
+### 🔗 Fork 的开源项目
 
-</td>
-</tr>
-</table>
-
-### 🤖 机器学习与深度学习 (4个)
-<table>
-<tr>
-<td width="50%">
-
-- [**homemade-machine-learning**](https://github.com/jared0612/homemade-machine-learning) - ML 算法演示
-- [**data-science-ipython-notebooks**](https://github.com/jared0612/data-science-ipython-notebooks) - 深度学习笔记
-
-</td>
-<td width="50%">
-
-- [**feature-engineering-for-ml-zh**](https://github.com/jared0612/feature-engineering-for-ml-zh) - 特征工程翻译
-- [**ciml**](https://github.com/jared0612/ciml) - 机器学习课程
-
-</td>
-</tr>
-</table>
-
-### 📖 学习资源与参考 (6个)
-<table>
-<tr>
-<td width="50%">
-
-- [**awesome-programming-books**](https://github.com/jared0612/awesome-programming-books) - 编程书籍大全
-- [**awesome-developer**](https://github.com/jared0612/awesome-developer) - 开发资源
-- [**awesome-iot**](https://github.com/jared0612/awesome-iot) - IoT 资源
-
-</td>
-<td width="50%">
-
-- [**free-programming-books-zh_CN**](https://github.com/jared0612/free-programming-books-zh_CN) - 免费书籍
-- [**HelloGitHub**](https://github.com/jared0612/HelloGitHub) - 有趣开源项目
-- [**DeepInterests**](https://github.com/jared0612/DeepInterests) - 深度有趣
-
-</td>
-</tr>
-</table>
-
-### 🛠️ 开发工具与配置 (3个)
-<table>
-<tr>
-<td>
-
-- [**hexo-theme-butterfly**](https://github.com/jared0612/hexo-theme-butterfly) - Hexo 主题
-- [**hexo-theme-pure**](https://github.com/jared0612/hexo-theme-pure) - Hexo Pure 主题
-- [**desktop-tutorial**](https://github.com/jared0612/desktop-tutorial) - GitHub Desktop 教程
-
-</td>
-</tr>
-</table>
-
-### 🔗 Fork 的开源项目 (4个)
-<table>
-<tr>
-<td width="50%">
-
-- [**opencv**](https://github.com/jared0612/opencv) - 计算机视觉库
-- [**dragon**](https://github.com/jared0612/dragon) - Fork 项目
-
-</td>
-<td width="50%">
-
-- [**emulationWORK**](https://github.com/jared0612/emulationWORK) - 模拟器项目
-- [**955.WLB**](https://github.com/jared0612/955.WLB) - 不加班公司名单
-
-</td>
-</tr>
-</table>
+| 仓库 | 原项目 |
+|------|--------|
+| [**visual-git-guide**](https://github.com/jared0612/visual-git-guide) | [pofeng/visual-git-guide](https://github.com/pofeng/visual-git-guide) |
+| [**workflow**](https://github.com/jared0612/workflow) | - |
+| [**opencv**](https://github.com/jared0612/opencv) | 计算机视觉库 |
+| [**TencentOS-tiny**](https://github.com/jared0612/TencentOS-tiny) | 腾讯物联网终端操作系统 |
+| [**TeachYourselfCS-CN**](https://github.com/jared0612/TeachYourselfCS-CN) | 自学计算机科学中文版 |
+| [**hexo-theme-butterfly**](https://github.com/jared0612/hexo-theme-butterfly) | Hexo 博客主题 |
+| [**grokking_algorithms**](https://github.com/jared0612/grokking_algorithms) | 算法图解代码 |
+| [**Interview-code-practice-python**](https://github.com/jared0612/Interview-code-practice-python) | Python 面试题 |
 
 ---
 
 ## 📊 仓库统计
 
-- 🏠 **总仓库数**: 29个
-- 📝 **个人项目**: 6个
-- 🎯 **学习资源**: 16个
-- 🔧 **工具和配置**: 7个
+| 指标 | 数值 |
+|------|------|
+| 🏠 **总仓库数** | 19 个 (公开15 + 私有4) |
+| 📝 **个人项目** | 12 个 |
+| 🔗 **Fork 项目** | 28 个 |
+| ⭐ **获得 Star** | 5 个 |
+| 🌐 **粉丝** | 2 |
+| 👥 **关注** | 29 |
 
 ---
 
-## 🎯 快速导航
+## 🛠️ 快速工具
 
-| 类别 | 数量 | 链接 |
-|------|------|------|
-| 🔍 **全部仓库** | 29 | [查看所有](https://github.com/jared0612?tab=repositories) |
-| ⭐ **获赞仓库** | - | [查看热门](https://github.com/jared0612?tab=stars) |
-| 📚 **Gist** | - | [查看笔记](https://gist.github.com/jared0612) |
+| 工具 | 说明 |
+|------|------|
+| [🔍 仓库搜索](https://github.com/search?q=user:jared0612) | 搜索我的所有仓库 |
+| [⭐ Star 列表](https://github.com/jared0612?tab=stars) | 查看我 Star 的项目 |
+| [📖 GitHub Profile](https://github.com/jared0612) | 个人主页 |
+
+---
+
+## 💡 关于我
+
+正在准备考研，同时坚持编程学习。热爱技术，关注 AI 发展。
+
+- 🔭 当前重点：**考研复习 + 编程实践**
+- 🌱 正在学习：**C++ / 数据结构与算法**
+- ⚡ 兴趣方向：**AI 应用开发 / IoT / Web 开发**
 
 ---
 
 **💫 提示：** 
 - 点击仓库名称可直接访问
-- 笑话每十分钟自动更新一次
-- 欢迎 Star ⭐ 和 Fork 我的仓库！
+- 笑话每10分钟自动更新一次
+- 欢迎 **Star** ⭐ 和 **Fork** 我的仓库！
