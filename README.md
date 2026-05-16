@@ -6,12 +6,12 @@ You can click [here](https://github-readme-stats.vercel.app/api?username=jared06
 
 ## 😂 今日笑话
 
-> **Setup:** My wife told me to stop impersonating a flamingo. I had to put my foot down.
->
-> **Punchline:** Well, she didn't appreciate me standing around all day looking like a bird and eating raw fish.
+> Judge: "I sentence you to the maximum punishment..."
+Me (thinking): "Please be death, please be death..."
+Judge: "Learn Java!"
+Me: "Damn."
 
-💡 更新于: 2026/05/16 22:02:11 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
-
+💡 更新于: 2026/05/16 23:14:28 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
 ---
 
 ## 🎯 我的仓库分类导航
