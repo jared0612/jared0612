@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 ## 😂 今日笑话
 
-> **Setup:** Why do programmers prefer using the dark mode?
+> **Setup:** What time did the man go to the dentist?
 >
-> **Punchline:** Because light attracts bugs.
+> **Punchline:** Tooth hurt-y.
 
-💡 更新于: 2026/05/16 16:27:40 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
+💡 更新于: 2026/05/16 18:01:27 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
 ---
 
 ## 📰 最近更新
