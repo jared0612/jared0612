@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 ## 😂 今日笑话
 
-> **Setup:** What's the best thing about Switzerland?
+> **Setup:** Why do programmers prefer using the dark mode?
 >
-> **Punchline:** I don't know, but the flag is a big plus.
+> **Punchline:** Because light attracts bugs.
 
-💡 更新于: 2026/05/16 14:33:19 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
+💡 更新于: 2026/05/16 16:27:40 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
 ---
 
 ## 📰 最近更新
