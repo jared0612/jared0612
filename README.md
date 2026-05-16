@@ -6,9 +6,11 @@ You can click [here](https://github-readme-stats.vercel.app/api?username=jared06
 
 ## 😂 今日笑话
 
-> I bought some shoes from a drug dealer. I don't know what he laced them with, but I was tripping all day!
+> **Setup:** Why do they call it hyper terminal?
+>
+> **Punchline:** Too much Java.
 
-💡 更新于: 2026/05/17 05:32:35 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
+💡 更新于: 2026/05/17 06:28:46 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
 ---
 
 ## 🎯 我的仓库分类导航
