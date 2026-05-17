@@ -6,10 +6,11 @@ You can click [here](https://github-readme-stats.vercel.app/api?username=jared06
 
 ## 😂 今日笑话
 
-> **Setup:** What happened to the man who got behind on payments to his exorcist?
-> **Punchline:** He got repossessed.
+> **Setup:** Why can't orphans play baseball?
+>
+> **Punchline:** They don't know where home is.
 
-💡 更新于: 2026/05/18 00:16:31 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
+💡 更新于: 2026/05/18 01:30:31 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
 ---
 
 ## 🎯 我的仓库分类导航
