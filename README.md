@@ -7,7 +7,6 @@ You can click [here](https://github-readme-stats.vercel.app/api?username=jared06
 ## 😂 今日笑话
 
 > **Setup:** What happened to the man who got behind on payments to his exorcist?
->
 > **Punchline:** He got repossessed.
 
 💡 更新于: 2026/05/18 00:16:31 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
@@ -19,7 +18,7 @@ You can click [here](https://github-readme-stats.vercel.app/api?username=jared06
 
 | 仓库 | 描述 | 更新时间 |
 |------|------|----------|
-| [**Kaoyan-Study**](https://github.com/jared0612/Kaoyan-Study) | 考研学习资料整理 | 2026-05-16 🆕 |
+| [**Kaoyan-Study**](https://github.com/jared0612/Kaoyan-Study) | 考研学习资料整理 | 2026-05-16 🕙 |
 | [**2027-Math1-Study-Notes**](https://github.com/jared0612/2027-Math1-Study-Notes) | 考研数学一学习笔记 | 2026-05-14 |
 | [**950612**](https://github.com/jared0612/950612) | 延毕学生的学习记录与思考 | 2020-09-14 |
 
@@ -52,8 +51,8 @@ You can click [here](https://github-readme-stats.vercel.app/api?username=jared06
 
 | 仓库 | 原项目 |
 |------|-------|
-| [**visual-git-guide**](https://github.com/jared0612/visual-git-guide) | [pofeng/visual-git-guide](https://github.com/pofeng/visual-git-guide) |
-| [**workflow**](https://github.com/jared0612/workflow) | - |
+| [**visual-git-guide**](https://github.com/jared0612/visual-git-guide) | [marklodato/visual-git-guide](https://github.com/marklodato/visual-git-guide) |
+| [**workflow**](https://github.com/jared0612/workflow) | C++ Parallel Computing |
 | [**opencv**](https://github.com/jared0612/opencv) | 计算机视觉库 |
 | [**TencentOS-tiny**](https://github.com/jared0612/TencentOS-tiny) | 腾讯物联网终端操作系统 |
 | [**TeachYourselfCS-CN**](https://github.com/jared0612/TeachYourselfCS-CN) | 自学计算机科学指南 |
@@ -69,11 +68,11 @@ You can click [here](https://github-readme-stats.vercel.app/api?username=jared06
 |------|------|
 | 📦 **公开仓库** | 43 个 |
 | 📚 **总仓库** | 47 个 (+4 私有) |
-| 🔀 **Fork 项目** | 28 个 |
+| 🔀 **Fork 项目** | 35 个 |
 | ⭐ **获得 Star** | 5 个 |
 | 👥 **关注者** | 2 |
-| 👀 **关注中** | 29 |
-| ⭐ **Star 别人** | 115 个 |
+| 👀 **关注中** | 30 |
+| ⭐ **Star 别人** | 115+ 个 |
 
 ---
 
@@ -81,11 +80,11 @@ You can click [here](https://github-readme-stats.vercel.app/api?username=jared06
 
 | 日期 | 活动 |
 |------|------|
-| 2026-05-16 | 📝 Push to jared0612/jared0612 (主页更新) |
-| 2026-05-16 | 📚 Push to Kaoyan-Study (考研学习资料) |
-| 2026-05-14 | 📝 Push to 2027-Math1-Study-Notes (数学笔记) |
-| 2026-05-09 | 🤖 Push to Chatbox-with-deepseek (AI聊天) |
-| 2026-05-05 | 📦 Push to emulationWORK |
+| 2026-05-16 | 📝 更新 jared0612/jared0612 (主页更新) |
+| 2026-05-16 | 📚 更新 Kaoyan-Study (考研学习资料) |
+| 2026-05-14 | 📝 更新 2027-Math1-Study-Notes (数学笔记) |
+| 2026-05-14 | 🤖 更新 awesome-developer (开发资源) |
+| 2026-05-09 | 🤖 更新 Chatbox-with-deepseek (AI聊天) |
 
 ---
 
@@ -95,13 +94,13 @@ You can click [here](https://github-readme-stats.vercel.app/api?username=jared06
 
 - 🔭 当前重点：**考研复习 + 编程实践**
 - 🌱 正在学习：**C++ / 数据结构与算法**
-- ⚡ 兴趣方向：**AI 应用开发 / IoT / Web 开发**
+- 🚀 兴趣方向：**AI 应用开发 / IoT / Web 开发**
 
 ---
 
-**💩 提示：** 
+**💫 提示：** 
 - 点击仓库名称可直接访问
 - 笑话每10分钟自动更新一次
 - 欢迎 **Star** ⭐ 和 **Fork** 我的仓库！
 
-*📊 统计数据更新于: 2026-05-17 01:00 (Asia/Shanghai)*
+*📊 统计数据更新于: 2026-05-18 01:00 (Asia/Shanghai)*
