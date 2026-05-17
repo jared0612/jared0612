@@ -6,11 +6,9 @@ You can click [here](https://github-readme-stats.vercel.app/api?username=jared06
 
 ## 😂 今日笑话
 
-> **Setup:** I can't believe I got fired from the calendar factory.
->
-> **Punchline:** All I did was take a day off.
+> If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
 
-💡 更新于: 2026/05/17 13:32:29 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
+💡 更新于: 2026/05/17 16:00:19 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
 ---
 
 ## 🎯 我的仓库分类导航
