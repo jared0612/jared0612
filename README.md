@@ -6,11 +6,11 @@ You can click [here](https://github-readme-stats.vercel.app/api?username=jared06
 
 ## 😂 今日笑话
 
-> **Setup:** Why are cats so good at video games?
+> **Setup:** Whats the Grinchs least favorite band?
 >
-> **Punchline:** They have nine lives.
+> **Punchline:** The Who.
 
-💡 更新于: 2026/05/17 19:20:50 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
+💡 更新于: 2026/05/17 20:12:25 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
 ---
 
 ## 🎯 我的仓库分类导航
