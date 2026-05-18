@@ -10,7 +10,7 @@ You can click [here](https://github-readme-stats.vercel.app/api?username=jared06
 >
 > **Punchline:** Wrap!
 
-💡 更新于: 2026/05/18 23:58:49 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
+💡 更新于: 2026/05/19 01:00:00 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
 ---
 
 ## 🎯 我的仓库分类导航
@@ -19,9 +19,9 @@ You can click [here](https://github-readme-stats.vercel.app/api?username=jared06
 
 | 仓库 | 描述 | 更新时间 |
 |------|------|----------|
-| [**Kaoyan-Study**](https://github.com/jared0612/Kaoyan-Study) | 考研学习资料整理 | 2026-05-16 🕙 |
+| [**jared0612**](https://github.com/jared0612/jared0612) | 个人主页仓库 | 2026-05-18 🕙 |
 | [**2027-Math1-Study-Notes**](https://github.com/jared0612/2027-Math1-Study-Notes) | 考研数学一学习笔记 | 2026-05-14 |
-| [**950612**](https://github.com/jared0612/950612) | 延毕学生的学习记录与思考 | 2020-09-14 |
+| [**Kaoyan-Study**](https://github.com/jared0612/Kaoyan-Study) | 考研学习资料整理 | 2026-05-16 |
 
 ### 🤖 AI 与工具开发
 
@@ -41,14 +41,14 @@ You can click [here](https://github-readme-stats.vercel.app/api?username=jared06
 | [**teach-myself-cpp**](https://github.com/jared0612/teach-myself-cpp) | 自学 C++ 笔记与代码 | - |
 | [**blog**](https://github.com/jared0612/blog) | 个人技术博客 | HTML |
 
-### 🌟 资源整理
+### 📂 资源整理
 
 | 仓库 | 描述 |
 |------|------|
 | [**awesome-developer**](https://github.com/jared0612/awesome-developer) | 从开发视角整理的学习资源、awesome仓库、安全开源软件 |
 | [**awesome-iot**](https://github.com/jared0612/awesome-iot) | IoT 资源整理 |
 
-### 🔗 Fork 的开源项目
+### 🍴 Fork 的开源项目
 
 | 仓库 | 原项目 |
 |------|-------|
@@ -69,11 +69,11 @@ You can click [here](https://github-readme-stats.vercel.app/api?username=jared06
 |------|------|
 | 📦 **公开仓库** | 43 个 |
 | 📚 **总仓库** | 47 个 (+4 私有) |
-| 🔀 **Fork 项目** | 35 个 |
+| 🍴 **Fork 项目** | 35 个 |
 | ⭐ **获得 Star** | 5 个 |
 | 👥 **关注者** | 2 |
 | 👀 **关注中** | 30 |
-| ⭐ **Star 别人** | 115+ 个 |
+| ⭐ **Star 别人** | 100+ 个 |
 
 ---
 
@@ -81,11 +81,11 @@ You can click [here](https://github-readme-stats.vercel.app/api?username=jared06
 
 | 日期 | 活动 |
 |------|------|
-| 2026-05-16 | 📝 更新 jared0612/jared0612 (主页更新) |
+| 2026-05-18 | 📝 更新 jared0612/jared0612 (主页更新) |
+| 2026-05-18 | 🏠 更新 jared0612 (profile repo) |
 | 2026-05-16 | 📚 更新 Kaoyan-Study (考研学习资料) |
 | 2026-05-14 | 📝 更新 2027-Math1-Study-Notes (数学笔记) |
 | 2026-05-14 | 🤖 更新 awesome-developer (开发资源) |
-| 2026-05-09 | 🤖 更新 Chatbox-with-deepseek (AI聊天) |
 
 ---
 
@@ -93,7 +93,7 @@ You can click [here](https://github-readme-stats.vercel.app/api?username=jared06
 
 正在准备考研，同时坚持编程学习。热爱技术，关注 AI 发展。
 
-- 🔭 当前重点：**考研复习 + 编程实践**
+- 🎯 当前重点：**考研复习 + 编程实践**
 - 🌱 正在学习：**C++ / 数据结构与算法**
 - 🚀 兴趣方向：**AI 应用开发 / IoT / Web 开发**
 
@@ -104,4 +104,4 @@ You can click [here](https://github-readme-stats.vercel.app/api?username=jared06
 - 笑话每10分钟自动更新一次
 - 欢迎 **Star** ⭐ 和 **Fork** 我的仓库！
 
-*📊 统计数据更新于: 2026-05-18 01:00 (Asia/Shanghai)*
+*📊 统计数据更新于: 2026-05-19 01:00 (Asia/Shanghai)*
