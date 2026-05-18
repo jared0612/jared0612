@@ -6,11 +6,13 @@ You can click [here](https://github-readme-stats.vercel.app/api?username=jared06
 
 ## 😂 今日笑话
 
-> **Setup:** What part of a vegetable are you not supposed to eat?
->
-> **Punchline:** The wheelchair.
+> Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock.
 
-💡 更新于: 2026/05/19 05:36:28 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
+💡 更新于: 2026/05/19 06:38:25 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
 ---
 
 ## 🎯 我的仓库分类导航
