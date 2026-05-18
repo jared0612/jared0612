@@ -6,9 +6,11 @@ You can click [here](https://github-readme-stats.vercel.app/api?username=jared06
 
 ## 😂 今日笑话
 
-> Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't.
+> **Setup:** What's Santa's favourite type of music?
+>
+> **Punchline:** Wrap!
 
-💡 更新于: 2026/05/18 20:15:17 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
+💡 更新于: 2026/05/18 23:58:49 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
 ---
 
 ## 🎯 我的仓库分类导航
