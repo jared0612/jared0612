@@ -6,9 +6,11 @@ You can click [here](https://github-readme-stats.vercel.app/api?username=jared06
 
 ## 😂 今日笑话
 
-> UDP is better in the COVID era since it avoids unnecessary handshakes.
+> **Setup:** What do you call a kid with no arms and an eyepatch?
+>
+> **Punchline:** Names.
 
-💡 更新于: 2026/05/19 02:07:16 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
+💡 更新于: 2026/05/19 04:00:56 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
 ---
 
 ## 🎯 我的仓库分类导航
