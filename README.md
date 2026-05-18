@@ -6,9 +6,11 @@ You can click [here](https://github-readme-stats.vercel.app/api?username=jared06
 
 ## 😂 今日笑话
 
-> Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
+> **Setup:** Why didn't the skeleton go for prom?
+>
+> **Punchline:** Because it had nobody.
 
-💡 更新于: 2026/05/18 08:14:14 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
+💡 更新于: 2026/05/18 12:47:05 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
 ---
 
 ## 🎯 我的仓库分类导航
