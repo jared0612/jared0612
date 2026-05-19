@@ -6,9 +6,11 @@ You can click [here](https://github-readme-stats.vercel.app/api?username=jared06
 
 ## 😂 今日笑话
 
-> Algorithm: A word used by programmers when they don't want to explain how their code works.
+> **Setup:** Do you know what killed the man who had a two ton pumpkin fall on him?
+>
+> **Punchline:** He was squashed.
 
-💡 更新于: 2026/05/19 09:51:55 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
+💡 更新于: 2026/05/19 14:13:37 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
 ---
 
 ## 🎯 我的仓库分类导航
