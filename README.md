@@ -6,11 +6,11 @@ You can click [here](https://github-readme-stats.vercel.app/api?username=jared06
 
 ## 😂 今日笑话
 
-> **Setup:** Do you know what killed the man who had a two ton pumpkin fall on him?
+> **Setup:** I stayed up all night wondering where the sun went.
 >
-> **Punchline:** He was squashed.
+> **Punchline:** Then it dawned on me.
 
-💡 更新于: 2026/05/19 14:13:37 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
+💡 更新于: 2026/05/19 18:10:49 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
 ---
 
 ## 🎯 我的仓库分类导航
