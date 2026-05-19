@@ -6,11 +6,9 @@ You can click [here](https://github-readme-stats.vercel.app/api?username=jared06
 
 ## 😂 今日笑话
 
-> **Setup:** What do you call a pile of kittens?
->
-> **Punchline:** A meowntain.
+> Algorithm: A word used by programmers when they don't want to explain how their code works.
 
-💡 更新于: 2026/05/19 07:46:30 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
+💡 更新于: 2026/05/19 09:51:55 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
 ---
 
 ## 🎯 我的仓库分类导航
