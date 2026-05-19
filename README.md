@@ -6,9 +6,11 @@ You can click [here](https://github-readme-stats.vercel.app/api?username=jared06
 
 ## 😂 今日笑话
 
-> ASCII silly question, get a silly ANSI.
+> **Setup:** why do python programmers wear glasses?
+>
+> **Punchline:** Because they can't C.
 
-💡 更新于: 2026/05/20 05:50:27 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
+💡 更新于: 2026/05/20 07:08:52 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
 ---
 
 ## 🎯 我的仓库分类导航
