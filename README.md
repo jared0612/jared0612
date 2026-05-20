@@ -6,7 +6,7 @@ You can click [here](https://github-readme-stats.vercel.app/api?username=jared06
 
 ## 😂 今日笑话
 
-> **Setup:** Why couldn't the skeleton go to the Christmas party?
+> **Setup:** Why could not the skeleton go to the Christmas party?
 >
 > **Punchline:** Because he had no body to go with!
 
