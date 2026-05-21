@@ -6,9 +6,11 @@ You can click [here](https://github-readme-stats.vercel.app/api?username=jared06
 
 ## 😂 今日笑话
 
-> I'll never forget my Granddad's last words to me just before he died. "Are you still holding the ladder?"
+> **Setup:** Whats the Grinchs least favorite band?
+>
+> **Punchline:** The Who.
 
-💡 更新于: 2026/05/21 20:48:41 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
+💡 更新于: 2026/05/22 00:10:58 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
 ---
 
 ## 🎯 我的仓库分类导航
