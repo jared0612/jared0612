@@ -1,107 +1,55 @@
 <!--
-**jared0612/jared0612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* jared0612/jared0612* is a 📑 my personal repository because its `README.md` (this file) appears on your GitHub profile.
 
 You can click [here](https://github-readme-stats.vercel.app/api?username=jared0612) to view your detailed GitHub stats!
--->
+---
 
-## 😂 今日笑话
+## 🎄 Hello! 👋
 
-> **Setup:** Whats the Grinchs least favorite band?
+**Jared** is a developer from Jinan, China.
+
+- 🌟 **Setup:** What's the Grinch least favorite band?
 >
-> **Punchline:** The Who.
+> **Answer:** The Who.
 
-💡 更新于: 2026/05/22 00:10:58 (由 [joke-generator.js](https://github.com/jared0612/jared0612/blob/main/joke-generator.js) 生成)
----
-
-## 🎯 我的仓库分类导航
-
-### 📚 考研学习 (最近活跃)
-
-| 仓库 | 描述 | 更新时间 |
-|------|------|----------|
-| [**jared0612**](https://github.com/jared0612/jared0612) | 个人主页仓库 | 2026-05-21 🕙 |
-| [**2027-Math1-Study-Notes**](https://github.com/jared0612/2027-Math1-Study-Notes) | 考研数学一学习笔记 | 2026-05-14 |
-| [**Kaoyan-Study**](https://github.com/jared0612/Kaoyan-Study) | 考研学习资料整理 | 2026-05-16 |
-
-### 🤖 AI 与工具开发
-
-| 仓库 | 描述 | 语言 |
-|------|------|------|
-| [**Chatbox-with-deepseek**](https://github.com/jared0612/Chatbox-with-deepseek) ⭐5 | 支持通用OpenAPI的AI聊天界面，支持实时对话和流式响应 | JavaScript |
-| [**awesome-developer**](https://github.com/jared0612/awesome-developer) | 从开发视角整理的学习资源、awesome仓库、安全开源软件 | - |
-| [**jared0612.github.io**](https://github.com/jared0612/jared0612.github.io) | 个人网站/GitHub Pages | HTML |
-| [**common**](https://github.com/jared0612/common) | 开发常用配置文件收集 | Shell |
-| [**project**](https://github.com/jared0612/project) | 项目模板与脚手架 | Makefile |
-
-### 💻 编程练习
-
-| 仓库 | 描述 | 语言 |
-|------|------|------|
-| [**practiceCPP**](https://github.com/jared0612/practiceCPP) | C++ 编程练习 | C |
-| [**teach-myself-cpp**](https://github.com/jared0612/teach-myself-cpp) | 自学 C++ 笔记与代码 | - |
-| [**blog**](https://github.com/jared0612/blog) | 个人技术博客 | HTML |
-
-### 📂 资源整理
-
-| 仓库 | 描述 |
-|------|------|
-| [**awesome-developer**](https://github.com/jared0612/awesome-developer) | 从开发视角整理的学习资源、awesome仓库、安全开源软件 |
-| [**awesome-iot**](https://github.com/jared0612/awesome-iot) | IoT 资源整理 |
-
-### 🍴 Fork 的开源项目
-
-| 仓库 | 原项目 |
-|------|-------|
-| [**visual-git-guide**](https://github.com/jared0612/visual-git-guide) | [marklodato/visual-git-guide](https://github.com/marklodato/visual-git-guide) |
-| [**workflow**](https://github.com/jared0612/workflow) | C++ Parallel Computing |
-| [**opencv**](https://github.com/jared0612/opencv) | 计算机视觉库 |
-| [**TencentOS-tiny**](https://github.com/jared0612/TencentOS-tiny) | 腾讯物联网终端操作系统 |
-| [**TeachYourselfCS-CN**](https://github.com/jared0612/TeachYourselfCS-CN) | 自学计算机科学指南 |
-| [**hexo-theme-butterfly**](https://github.com/jared0612/hexo-theme-butterfly) | Hexo 博客主题 |
-| [**grokking_algorithms**](https://github.com/jared0612/grokking_algorithms) | 算法图解笔记 |
-| [**Interview-code-practice-python**](https://github.com/jared0612/Interview-code-practice-python) | Python 面试代码 |
+🎁 **Setup:** What does the Grinch do when he gets mad?
+>
+> **Answer:** He gets for what you hope for... but you still need to go to work! -- Albert Einstein
 
 ---
 
-## 📊 仓库统计
+## 💻 My Work
 
-| 数据 | 数值 |
-|------|------|
-| 📦 **公开仓库** | 43 个 |
-| 📚 **总仓库** | 47 个 (+4 私有) |
-| 🍴 **Fork 项目** | 35 个 |
-| ⭐ **获得 Star** | 5 个 |
-| 👥 **关注者** | 2 |
-| 👀 **关注中** | 30 |
-| ⭐ **Star 别人** | 100+ 个 |
-
----
-
-## 🚀 最近活动
-
-| 日期 | 活动 |
-|------|------|
-| 2026-05-21 | 🤖 自动更新 jared0612/jared0612 (cron任务) |
-| 2026-05-20 | 📝 更新 jared0612/jared0612 (主页自动更新) |
-| 2026-05-20 | 🏠 更新 jared0612 (profile repo) |
-| 2026-05-16 | 📚 更新 Kaoyan-Study (考研学习资料) |
-| 2026-05-14 | 📝 更新 2027-Math1-Study-Notes (数学笔记) |
+| **Repository** | **Description** | **Language** | **Stars** | **Last Push** |
+|---|---|---|---|---|
+| [jared0612](https://github.com/jared0612/jared0612) | No description | JavaScript | ⭐ 0 | 2026-05-21 |
+| [daily-ai-news](https://github.com/jared0612/daily-ai-news) | 每日 AI 大事记 - 前一天 AI 领域重要动态汇总，自动生成并通过 GitHub Pages 访问 | HTML | ⭐ 0 | 2026-05-21 |
+| [2027-Math1-Study-Notes](https://github.com/jared0612/2027-Math1-Study-Notes) | No description | HTML | ⭐ 0 | 2026-05-14 |
+| [awesome-developer](https://github.com/jared0612/awesome-developer) | 主要从开发视角来整理，开发过程中使用到的仓库，包括不限于学习资源、awesome条目的仓库、安全性高的开源软件。 | None | ⭐ 0 | 2026-05-14 |
+| [Chatbox-with-deepseek](https://github.com/jared0612/Chatbox-with-deepseek) | 支持通用OpenAPI的AI聊天界面，支持实时对话和流式响应。 | JavaScript | ⭐ 5 | 2026-05-09 |
+| [emulationWORK](https://github.com/jared0612/emulationWORK) | No description | HTML | ⭐ 0 | 2026-05-05 |
+| [common](https://github.com/jared0612/common) | 开发常用配置文件 | Shell | ⭐ 0 | 2026-04-01 |
+| [blog](https://github.com/jared0612/blog) | No description | HTML | ⭐ 0 | 2026-03-14 |
+| [jared0612.github.io](https://github.com/jared0612/jared0612.github.io) | No description | HTML | ⭐ 0 | 2026-03-13 |
+| [project](https://github.com/jared0612/project) | No description | Makefile | ⭐ 0 | 2026-01-20 |
 
 ---
 
-## 💡 关于我
+## 📊 My GitHub Stats
 
-正在准备考研，同时坚持编程学习。热爱技术，关注 AI 发展。
+![Profile Views](https://visitor-badge.littlejoker.net/badge?page_id=jared0612&left_text=Visitors%3A%20®ister_badges=)
 
-- 🎯 当前重点：**考研复习 + 编程实践**
-- 🌱 正在学习：**C++ / 数据结构与算法**
-- 🚀 兴趣方向：**AI 应用开发 / IoT / Web 开发**
+- 📦 **Repositories:** 44
+- 👥 **Followers:** 2
+- 👤 **Following:** 30
 
 ---
 
-**💫 提示：** 
-- 点击仓库名称可直接访问
-- 笑话每10分钟自动更新一次
-- 欢迎 **Star** ⭐ 和 **Fork** 我的仓库！
+## 🕒 Recent Activity
 
-*📊 统计数据更新于: 2026-05-21 01:00 (Asia/Shanghai)*
+- 2026-05-21: Auto-updated by cron job
+- 2026-05-20: Updated profile README
+
+---
+
+**🎄 Joke:** The Grinch's heart grew three sizes that day... but his codebase is still the same size! 🎅
