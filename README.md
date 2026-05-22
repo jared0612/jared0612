@@ -40,6 +40,7 @@
 
 ## 🕒 Recent Activity
 
+- 2026-05-22: 修复README文档不显示问题
 - 2026-05-22: Auto-updated by cron job
 - 2026-05-21: Auto-updated by cron job
 - 2026-05-20: Updated profile README
