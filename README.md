@@ -22,16 +22,16 @@ You can click [here](https://github-readme-stats.vercel.app/api?username=jared06
 
 | **Repository** | **Description** | **Language** | **Stars** | **Last Push** |
 |---|---|---|---|---|
-| [jared0612](https://github.com/jared0612/jared0612) | No description | JavaScript | ⭐ 0 | 2026-05-21 |
-| [daily-ai-news](https://github.com/jared0612/daily-ai-news) | 每日 AI 大事记 - 前一天 AI 领域重要动态汇总，自动生成并通过 GitHub Pages 访问 | HTML | ⭐ 0 | 2026-05-21 |
-| [2027-Math1-Study-Notes](https://github.com/jared0612/2027-Math1-Study-Notes) | No description | HTML | ⭐ 0 | 2026-05-14 |
-| [awesome-developer](https://github.com/jared0612/awesome-developer) | 主要从开发视角来整理，开发过程中使用到的仓库，包括不限于学习资源、awesome条目的仓库、安全性高的开源软件。 | None | ⭐ 0 | 2026-05-14 |
 | [Chatbox-with-deepseek](https://github.com/jared0612/Chatbox-with-deepseek) | 支持通用OpenAPI的AI聊天界面，支持实时对话和流式响应。 | JavaScript | ⭐ 5 | 2026-05-09 |
-| [emulationWORK](https://github.com/jared0612/emulationWORK) | No description | HTML | ⭐ 0 | 2026-05-05 |
+| [daily-ai-news](https://github.com/jared0612/daily-ai-news) | 每日 AI 大事记 - 前一天 AI 领域重要动态汇总，自动生成并通过 GitHub Pages 访问 | HTML | ⭐ 0 | 2026-05-22 |
+| [jared0612](https://github.com/jared0612/jared0612) |  | JavaScript | ⭐ 0 | 2026-05-21 |
+| [2027-Math1-Study-Notes](https://github.com/jared0612/2027-Math1-Study-Notes) |  | HTML | ⭐ 0 | 2026-05-14 |
+| [awesome-developer](https://github.com/jared0612/awesome-developer) | 主要从开发视角来整理，开发过程中使用到的仓库，包括不限于学习资源、awesome条目的仓库、安全性高的开源软件。 |  | ⭐ 0 | 2026-05-14 |
+| [emulationWORK](https://github.com/jared0612/emulationWORK) |  | HTML | ⭐ 0 | 2026-05-05 |
 | [common](https://github.com/jared0612/common) | 开发常用配置文件 | Shell | ⭐ 0 | 2026-04-01 |
-| [blog](https://github.com/jared0612/blog) | No description | HTML | ⭐ 0 | 2026-03-14 |
-| [jared0612.github.io](https://github.com/jared0612/jared0612.github.io) | No description | HTML | ⭐ 0 | 2026-03-13 |
-| [project](https://github.com/jared0612/project) | No description | Makefile | ⭐ 0 | 2026-01-20 |
+| [blog](https://github.com/jared0612/blog) |  | HTML | ⭐ 0 | 2026-03-14 |
+| [jared0612.github.io](https://github.com/jared0612/jared0612.github.io) |  | HTML | ⭐ 0 | 2025-03-03 |
+| [project](https://github.com/jared0612/project) |  | Makefile | ⭐ 0 | 2026-01-20 |
 
 ---
 
@@ -47,6 +47,7 @@ You can click [here](https://github-readme-stats.vercel.app/api?username=jared06
 
 ## 🕒 Recent Activity
 
+- 2026-05-22: Auto-updated by cron job
 - 2026-05-21: Auto-updated by cron job
 - 2026-05-20: Updated profile README
 
