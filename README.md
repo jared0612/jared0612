@@ -15,8 +15,8 @@
 
 | **Repository** | **Description** | **Language** | **Last Push** |
 |---|---|---|---|
-| [daily-ai-news](https://github.com/jared0612/daily-ai-news) | 每日 AI 大事记 - 前一天 AI 领域重要动态汇总，自动生成并通过 GitHub Pages 访问 | HTML | 2026-05-25 |
-| [jared0612](https://github.com/jared0612/jared0612) | GitHub Profile | JavaScript | 2026-05-25 |
+| [daily-ai-news](https://github.com/jared0612/daily-ai-news) | 每日 AI 大事记 - 前一天 AI 领域重要动态汇总，自动生成并通过 GitHub Pages 访问 | HTML | 2026-05-27 |
+| [jared0612](https://github.com/jared0612/jared0612) | GitHub Profile | JavaScript | 2026-05-27 |
 | [mynotes](https://github.com/jared0612/mynotes) | 边看视频边记笔记的桌面应用 - Video note-taking app built with React + Vite + Express | JavaScript | 2026-05-23 |
 | [2027-Math1-Study-Notes](https://github.com/jared0612/2027-Math1-Study-Notes) | 2027 数学学习笔记 | HTML | 2026-05-14 |
 | [awesome-developer](https://github.com/jared0612/awesome-developer) | 开发视角整理：学习资源、awesome条目、安全开源软件 | — | 2026-05-14 |
@@ -41,11 +41,11 @@
 
 ## 🕒 Recent Activity
 
+- 2026-05-28: Auto-updated by cron job (daily refresh)
 - 2026-05-27: Auto-updated by cron job (daily refresh)
 - 2026-05-26: Auto-updated by cron job (daily refresh)
 - 2026-05-25: Auto-updated by cron job (daily refresh)
 - 2026-05-24: Auto-updated by cron job (daily refresh)
-- 2026-05-23: Auto-updated by cron job (daily refresh)
 
 ---
 
