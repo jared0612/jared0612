@@ -15,8 +15,8 @@
 
 | **Repository** | **Description** | **Language** | **Last Push** |
 |---|---|---|---|
-| [daily-ai-news](https://github.com/jared0612/daily-ai-news) | 每日 AI 大事记 - 前一天 AI 领域重要动态汇总，自动生成并通过 GitHub Pages 访问 | HTML | 2026-06-02 |
-| [jared0612](https://github.com/jared0612/jared0612) | Profile README | JavaScript | 2026-05-31 |
+| [daily-ai-news](https://github.com/jared0612/daily-ai-news) | 每日 AI 大事记 - 前一天 AI 领域重要动态汇总，自动生成并通过 GitHub Pages 访问 | HTML | 2026-06-03 |
+| [jared0612](https://github.com/jared0612/jared0612) | Profile README | JavaScript | 2026-06-03 |
 | [emulationWORK](https://github.com/jared0612/emulationWORK) | No description | HTML | 2026-05-28 |
 | [mynotes](https://github.com/jared0612/mynotes) | 边看视频边记笔记的桌面应用 - Video note-taking app built with React + Vite + Express | JavaScript | 2026-05-23 |
 | [2027-Math1-Study-Notes](https://github.com/jared0612/2027-Math1-Study-Notes) | No description | HTML | 2026-05-14 |
@@ -34,19 +34,19 @@
 
 - 📦 **Repositories:** 45 (Public: 45, Private: 4)
 - ⭐ **Total Stars:** 5
-- 👥 **Followers:** 2
+- 👥 **Followers:** 3
 - 👤 **Following:** 31
-- ⭐ **Starred Repos:** 125
+- ⭐ **Starred Repos:** 100
 
 ---
 
 ## 🕒 Recent Activity
 
-- 2026-06-04: Auto-updated by cron job (daily refresh)
-- 2026-06-02: Updated daily-ai-news repository
-- 2026-05-31: Updated profile README
+- 2026-06-05: Auto-updated by cron job (daily refresh)
+- 2026-06-03: Updated daily-ai-news and jared0612 repos
 - 2026-05-28: Updated emulationWORK
 - 2026-05-23: Updated mynotes app
+- 2026-05-14: Updated study notes and awesome-developer
 
 ---
 
