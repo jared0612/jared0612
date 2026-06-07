@@ -15,8 +15,8 @@
 
 | **Repository** | **Description** | **Language** | **Last Push** |
 |---|---|---|---|
-| [daily-ai-news](https://github.com/jared0612/daily-ai-news) | 每日 AI 大事记 - 前一天 AI 领域重要动态汇总，自动生成并通过 GitHub Pages 访问 | HTML | 2026-06-05 |
-| [jared0612](https://github.com/jared0612/jared0612) | Profile README | JavaScript | 2026-06-05 |
+| [daily-ai-news](https://github.com/jared0612/daily-ai-news) | 每日 AI 大事记 - 前一天 AI 领域重要动态汇总，自动生成并通过 GitHub Pages 访问 | HTML | 2026-06-07 |
+| [jared0612](https://github.com/jared0612/jared0612) | Profile README | JavaScript | 2026-06-07 |
 | [emulationWORK](https://github.com/jared0612/emulationWORK) | No description | HTML | 2026-05-28 |
 | [mynotes](https://github.com/jared0612/mynotes) | 边看视频边记笔记的桌面应用 - Video note-taking app | JavaScript | 2026-05-23 |
 | [2027-Math1-Study-Notes](https://github.com/jared0612/2027-Math1-Study-Notes) | No description | HTML | 2026-05-14 |
@@ -41,8 +41,8 @@
 
 ## 🕐 Recent Activity
 
-- 2026-06-07: Auto-updated by cron job (daily refresh)
-- 2026-06-05: Updated daily-ai-news and profile README
+- 2026-06-08: Auto-updated by cron job (daily refresh)
+- 2026-06-07: Updated daily-ai-news and profile README
 - 2026-05-28: Updated emulationWORK
 - 2026-05-23: Updated mynotes app
 - 2026-05-14: Updated study notes and awesome-developer
