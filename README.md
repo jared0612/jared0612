@@ -15,16 +15,17 @@
 
 | **Repository** | **Description** | **Language** | **Last Push** |
 |---|---|---|---|
-| [daily-ai-news](https://github.com/jared0612/daily-ai-news) | 每日 AI 大事记 - 前一天 AI 领域重要动态汇总，自动生成并通过 GitHub Pages 访问 | HTML | 2026-06-07 |
-| [jared0612](https://github.com/jared0612/jared0612) | Profile README | JavaScript | 2026-06-07 |
+| [daily-ai-news](https://github.com/jared0612/daily-ai-news) | 每日 AI 大事记 - 前一天 AI 领域重要动态汇总，自动生成并通过 GitHub Pages 访问 | HTML | 2026-06-08 |
+| [jared0612](https://github.com/jared0612/jared0612) | No description | JavaScript | 2026-06-08 |
 | [emulationWORK](https://github.com/jared0612/emulationWORK) | No description | HTML | 2026-05-28 |
-| [mynotes](https://github.com/jared0612/mynotes) | 边看视频边记笔记的桌面应用 - Video note-taking app | JavaScript | 2026-05-23 |
+| [mynotes](https://github.com/jared0612/mynotes) | 边看视频边记笔记的桌面应用 - Video note-taking app built with React + Vit... | JavaScript | 2026-05-23 |
 | [2027-Math1-Study-Notes](https://github.com/jared0612/2027-Math1-Study-Notes) | No description | HTML | 2026-05-14 |
-| [awesome-developer](https://github.com/jared0612/awesome-developer) | 开发视角整理的仓库 - 学习资源、awesome 条目、安全开源软件 | - | 2026-05-14 |
-| [Chatbox-with-deepseek](https://github.com/jared0612/Chatbox-with-deepseek) | 支持通用 OpenAPI 的 AI 聊天界面 | JavaScript | 2026-05-09 |
+| [awesome-developer](https://github.com/jared0612/awesome-developer) | 主要从开发视角来整理，开发过程中使用到的仓库，包括不限于学习资源、awesome条目的仓库、安全性高的开源软件。 | - | 2026-05-14 |
+| [Chatbox-with-deepseek](https://github.com/jared0612/Chatbox-with-deepseek) | 支持通用OpenAPI的AI聊天界面，支持实时对话和流式响应。 | JavaScript | 2026-05-09 |
 | [common](https://github.com/jared0612/common) | 开发常用配置文件 | Shell | 2026-04-01 |
 | [blog](https://github.com/jared0612/blog) | No description | HTML | 2026-03-14 |
-| [project](https://github.com/jared0612/project) | No description | - | 2026-01-20 |
+| [project](https://github.com/jared0612/project) | No description | Makefile | 2026-01-20 |
+
 
 ---
 
@@ -41,8 +42,8 @@
 
 ## 🕐 Recent Activity
 
-- 2026-06-09: Auto-updated by cron job (daily refresh)
-- 2026-06-07: Updated daily-ai-news and profile README
+- 2026-06-10: Auto-updated by cron job (daily refresh)
+- 2026-06-08: Updated daily-ai-news and profile README
 - 2026-05-28: Updated emulationWORK
 - 2026-05-23: Updated mynotes app
 - 2026-05-14: Updated study notes and awesome-developer
