@@ -15,8 +15,8 @@
 
 | **Repository** | **Description** | **Language** | **Last Push** |
 |---|---|---|---|
-| [daily-ai-news](https://github.com/jared0612/daily-ai-news) | 每日 AI 大事记 - 前一天 AI 领域重要动态汇总 | HTML | 2026-06-11 |
-| [jared0612](https://github.com/jared0612/jared0612) | GitHub Profile README | JavaScript | 2026-06-11 |
+| [daily-ai-news](https://github.com/jared0612/daily-ai-news) | 每日 AI 大事记 - 前一天 AI 领域重要动态汇总 | HTML | 2026-06-12 |
+| [jared0612](https://github.com/jared0612/jared0612) | GitHub Profile README | JavaScript | 2026-06-12 |
 | [emulationWORK](https://github.com/jared0612/emulationWORK) | No description | HTML | 2026-05-28 |
 | [mynotes](https://github.com/jared0612/mynotes) | 边看视频边记笔记的桌面应用 | JavaScript | 2026-05-23 |
 | [2027-Math1-Study-Notes](https://github.com/jared0612/2027-Math1-Study-Notes) | No description | HTML | 2026-05-14 |
@@ -41,11 +41,11 @@
 
 ## 🕐 Recent Activity
 
-- 2026-06-12: Auto-updated by cron job (daily refresh)
+- 2026-06-13: ⭐ Starred eclipse-iceoryx/iceoryx, Fincept-Corporation/FinceptTerminal, google/gemma.cpp
+- 2026-06-12: Pushed daily-ai-news
 - 2026-06-11: Pushed daily-ai-news and profile update
 - 2026-05-28: Updated emulationWORK
 - 2026-05-23: Updated mynotes app
-- 2026-05-14: Updated study notes and awesome-developer
 
 ---
 
