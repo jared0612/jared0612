@@ -2,7 +2,7 @@ name: 🎭 Update Joke Every 10 Minutes
 
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '0 0 */1 * *'
   workflow_dispatch:
 
 permissions:
