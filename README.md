@@ -6,8 +6,9 @@
 - **Answer:** The Who.
 
 - 🎄 **Setup:** What does the Grinch do when he gets mad?
-- **Answer:** He gets for what you hope for... 
-> **Answer:** He gets for what you hope for... but you still need to go to work! -- Albert Einstein
+- **Answer:** He gets for what you hope for...
+
+---
 
 ---
 
