@@ -16,8 +16,8 @@
 
 | **Repository** | **Description** | **Language** | **Stars** | **Last Push** |
 |---|---|---|---|---|
-| [daily-ai-news](https://github.com/jared0612/daily-ai-news) | 每日 AI 大事记 - 前一天 AI 领域重要动态汇总，自动生成并通过 GitHub Pages 访问 | HTML | 0 | 2026-06-27 |
 | [jared0612](https://github.com/jared0612/jared0612) | Profile repository | JavaScript | 0 | 2026-06-27 |
+| [daily-ai-news](https://github.com/jared0612/daily-ai-news) | 每日 AI 大事记 - 前一天 AI 领域重要动态汇总，自动生成并通过 GitHub Pages 访问 | HTML | 0 | 2026-06-27 |
 | [emulationWORK](https://github.com/jared0612/emulationWORK) | No description | HTML | 0 | 2026-05-28 |
 | [mynotes](https://github.com/jared0612/mynotes) | 边看视频边记笔记的桌面应用 - Video note-taking app built with React + Vite + Express | JavaScript | 0 | 2026-05-23 |
 | [2027-Math1-Study-Notes](https://github.com/jared0612/2027-Math1-Study-Notes) | No description | HTML | 0 | 2026-05-14 |
@@ -53,4 +53,4 @@
 
 ---
 
-**🎄 Joke:** The Grinch's heart grew three sizes that day... but this codebase is still the same size! 🎄
+**🎄 Joke:** Why did Santa's debug script fail on Christmas Eve? Because it had a null pointer in the gift-list algorithm — even the elves couldn't find the missing semicolon! 🎄
