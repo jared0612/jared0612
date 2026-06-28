@@ -16,14 +16,14 @@
 
 | **Repository** | **Description** | **Language** | **Stars** | **Last Push** |
 |---|---|---|---|---|
-| [jared0612](https://github.com/jared0612/jared0612) | Profile repository | JavaScript | 0 | 2026-06-27 |
-| [daily-ai-news](https://github.com/jared0612/daily-ai-news) | 每日 AI 大事记 - 前一天 AI 领域重要动态汇总，自动生成并通过 GitHub Pages 访问 | HTML | 0 | 2026-06-27 |
-| [emulationWORK](https://github.com/jared0612/emulationWORK) | No description | HTML | 0 | 2026-05-28 |
-| [mynotes](https://github.com/jared0612/mynotes) | 边看视频边记笔记的桌面应用 - Video note-taking app built with React + Vite + Express | JavaScript | 0 | 2026-05-23 |
-| [2027-Math1-Study-Notes](https://github.com/jared0612/2027-Math1-Study-Notes) | No description | HTML | 0 | 2026-05-14 |
-| [awesome-developer](https://github.com/jared0612/awesome-developer) | 主要从开发视角来整理，开发过程中使用到的仓库，包括不限于学习资源、awesome条目的仓库、安全性高的开源软件。 | - | 0 | 2026-05-14 |
+| [daily-ai-news](https://github.com/jared0612/daily-ai-news) | 每日 AI 大事记 - 前一天 AI 领域重要动态汇总，自动生成并通过 GitHub Pages 访问 | HTML | ⭐0 | 2026-06-27 |
+| [jared0612](https://github.com/jared0612/jared0612) | Profile repository | JavaScript | ⭐0 | 2026-06-27 |
+| [emulationWORK](https://github.com/jared0612/emulationWORK) | No description | HTML | ⭐0 | 2026-05-28 |
+| [mynotes](https://github.com/jared0612/mynotes) | 边看视频边记笔记的桌面应用 - Video note-taking app built with React + Vite + Express | JavaScript | ⭐0 | 2026-05-23 |
+| [2027-Math1-Study-Notes](https://github.com/jared0612/2027-Math1-Study-Notes) | No description | HTML | ⭐0 | 2026-05-14 |
+| [awesome-developer](https://github.com/jared0612/awesome-developer) | 主要从开发视角来整理，开发过程中使用到的仓库，包括不限于学习资源、awesome条目的仓库、安全性高的开源软件。 | - | ⭐0 | 2026-05-14 |
 | [Chatbox-with-deepseek](https://github.com/jared0612/Chatbox-with-deepseek) | 支持通用OpenAPI的AI聊天界面，支持实时对话和流式响应。 | JavaScript | ⭐5 | 2026-05-09 |
-| [common](https://github.com/jared0612/common) | 开发常用配置文件 | Shell | 0 | 2026-04-01 |
+| [common](https://github.com/jared0612/common) | 开发常用配置文件 | Shell | ⭐0 | 2026-04-01 |
 
 ---
 
@@ -35,7 +35,7 @@
 - ⭐ **Total Stars:** 5
 - 👥 **Followers:** 2
 - 👤 **Following:** 31
-- ⭐ **Starred:** 100+
+- ⭐ **Starred:** 129
 
 ---
 
@@ -53,4 +53,4 @@
 
 ---
 
-**🎄 Joke:** Why did Santa's debug script fail on Christmas Eve? Because it had a null pointer in the gift-list algorithm — even the elves couldn't find the missing semicolon! 🎄
+**🎄 Joke:** Why did the Christmas tree fail its code review? Because it had too many branches and no tests! 🎄
