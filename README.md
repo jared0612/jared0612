@@ -23,6 +23,15 @@
 | [awesome-developer](https://github.com/jared0612/awesome-developer) | 主要从开发视角来整理，开发过程中使用到的仓库，包括不限于学习资源、awesome条目的仓库、安全性高的开源软件。 | - | ⭐0 | 2026-05-14 |
 | [Chatbox-with-deepseek](https://github.com/jared0612/Chatbox-with-deepseek) | 支持通用OpenAPI的AI聊天界面，支持实时对话和流式响应。 | JavaScript | ⭐5 | 2026-05-09 |
 | [common](https://github.com/jared0612/common) | 开发常用配置文件 | Shell | ⭐0 | 2026-04-01 |
+| [blog](https://github.com/jared0612/blog) | No description | HTML | ⭐0 | 2026-03-14 |
+| [jared0612.github.io](https://github.com/jared0612/jared0612.github.io) | No description | HTML | ⭐0 | 2026-03-13 |
+| [project](https://github.com/jared0612/project) | No description | Makefile | ⭐0 | 2026-01-20 |
+| [practiceCPP](https://github.com/jared0612/practiceCPP) | No description | C | ⭐0 | 2025-03-24 |
+| [awesome-iot](https://github.com/jared0612/awesome-iot) | No description | - | ⭐0 | 2025-02-26 |
+| [onePiece](https://github.com/jared0612/onePiece) | No description | - | ⭐0 | 2024-01-29 |
+| [teach-myself-cpp](https://github.com/jared0612/teach-myself-cpp) | 自学cpp | - | ⭐0 | 2023-04-11 |
+| [picture](https://github.com/jared0612/picture) | No description | - | ⭐0 | 2022-03-29 |
+| [dragon](https://github.com/jared0612/dragon) | No description | - | ⭐0 | 2019-04-03 |
 
 ---
 
@@ -34,7 +43,7 @@
 - ⭐ **Total Stars:** 5
 - 👥 **Followers:** 2
 - 👤 **Following:** 31
-- ⭐ **Starred:** 129
+- ⭐ **Starred:** 130
 
 ---
 
@@ -53,4 +62,4 @@
 
 ---
 
-**🎄 Joke:** Why did Santa's CI/CD pipeline fail on Christmas Eve? Because the elves forgot to mock the chimney interface, and now the integration tests are failing with "TypeError: Cannot read property 'fireplace' of undefined"! 🎅🔥
+**🎄 Joke:** Why did Santa switch to Rust? Because his `naughty_or_nice` list kept panicking in C, and the borrow checker now guarantees every present is delivered exactly once! 🦀🎁
