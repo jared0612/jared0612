@@ -22,8 +22,8 @@
 | [mynotes](https://github.com/jared0612/mynotes) | 边看视频边记笔记的桌面应用 - Video note-taking app built with React + Vite + Express | JavaScript | ⭐0 | 2026-05-23 |
 | [2027-Math1-Study-Notes](https://github.com/jared0612/2027-Math1-Study-Notes) | No description | HTML | ⭐0 | 2026-05-14 |
 | [awesome-developer](https://github.com/jared0612/awesome-developer) | 主要从开发视角来整理，开发过程中使用到的仓库，包括不限于学习资源、awesome条目的仓库、安全性高的开源软件。 | - | ⭐0 | 2026-05-14 |
-| [Chatbox-with-deepseek](https://github.com/jared0612/Chatbox-with-deepseek) | 支持通用OpenAPI的AI聊天界面，支持实时对话和流式响应。 | JavaScript | ⭐5 | 2026-05-09 |
-| [common](https://github.com/jared0612/common) | 开发常用配置文件 | Shell | ⭐0 | 2026-04-01 |
+| [Chatbox-with-deepseek](https://github.com/jared0612/Chatbox-with-deepseek) | 支持通用OpenAPI的AI聊天界面，支持多种模型切换，支持流式输出。 | JavaScript | ⭐5 | 2026-05-09 |
+| [common](https://github.com/jared0612/common) | 个人常用的一些脚本和配置 | Shell | ⭐0 | 2026-04-01 |
 | [blog](https://github.com/jared0612/blog) | No description | HTML | ⭐0 | 2026-03-14 |
 | [jared0612.github.io](https://github.com/jared0612/jared0612.github.io) | No description | HTML | ⭐0 | 2026-03-13 |
 | [project](https://github.com/jared0612/project) | No description | Makefile | ⭐0 | 2026-01-20 |
@@ -33,19 +33,19 @@
 
 ---
 
-## 📚 My GitHub Stats
+## 📊 My GitHub Stats
 
-[Profile Views](https://visitor-badge.littlejoker.net/badge?page_id=jared0612&left_text=Visitors%3A%20&register_badges)
+[Profile Views](https://visitor-badge.littlejoker.net/badge?page_id=jared0612&left_text=Visitors%3A%20&right_text=®ister_badges)
 
-- 📦 **Repositories:** 46
+- 🏗️ **Repositories:** 46
 - ⭐ **Total Stars:** 5
 - 👥 **Followers:** 2
-- 👤 **Following:** 32
-- 🌟 **Starred:** 130
+- 👣 **Following:** 32
+- 🔥 **Starred:** 100+
 
 ---
 
-## 🕑 Recent Activity
+## 📅 Recent Activity
 
 -  2026-07-09: Pushed daily-ai-news
 -  2026-07-09: Pushed jared0612
@@ -60,4 +60,4 @@
 
 ---
 
-**🎄 Joke:** Why did Santa migrate everything to a monorepo? So his elves could `git pull` one shared wishlist instead of pushing conflicting `toy` branches on Christmas Eve! 🎅
+**🎄 Joke:** Why did the programmer's Christmas tree have no decorations? Because they were all in the `node_modules` and he couldn't find them! 🎄
