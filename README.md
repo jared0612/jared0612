@@ -15,8 +15,8 @@
 
 | **Repository** | **Description** | **Language** | **Stars** | **Last Push** |
 |---|---|---|---|---|
-| [daily-ai-news](https://github.com/jared0612/daily-ai-news) | 每日 AI 大事记 - 前一天 AI 领域重要动态汇总，自动生成并通过 GitHub Pages 访问 | HTML | ⭐0 | 2026-07-13 |
-| [jared0612](https://github.com/jared0612/jared0612) | No description | JavaScript | ⭐0 | 2026-07-12 |
+| [daily-ai-news](https://github.com/jared0612/daily-ai-news) | 每日 AI 大事记 - 前一天 AI 领域重要动态汇总，自动生成并通过 GitHub Pages 访问 | HTML | ⭐0 | 2026-07-14 |
+| [jared0612](https://github.com/jared0612/jared0612) | No description | JavaScript | ⭐0 | 2026-07-14 |
 | [proxygo](https://github.com/jared0612/proxygo) | No description | Python | ⭐0 | 2026-07-06 |
 | [emulationWORK](https://github.com/jared0612/emulationWORK) | No description | HTML | ⭐0 | 2026-05-28 |
 | [mynotes](https://github.com/jared0612/mynotes) | 边看视频边记笔记的桌面应用 - Video note-taking app built with React + Vite + Express | JavaScript | ⭐0 | 2026-05-23 |
@@ -25,11 +25,11 @@
 | [Chatbox-with-deepseek](https://github.com/jared0612/Chatbox-with-deepseek) | 支持通用OpenAPI的AI聊天界面，支持实时对话和流式响应。 | JavaScript | ⭐5 | 2026-05-09 |
 | [common](https://github.com/jared0612/common) | 开发常用配置文件 | Shell | ⭐0 | 2026-04-01 |
 | [blog](https://github.com/jared0612/blog) | No description | HTML | ⭐0 | 2026-03-14 |
+| [jared0612.github.io](https://github.com/jared0612/jared0612.github.io) | No description | HTML | ⭐0 | 2026-03-13 |
 | [project](https://github.com/jared0612/project) | No description | Makefile | ⭐0 | 2026-01-20 |
 | [practiceCPP](https://github.com/jared0612/practiceCPP) | No description | C | ⭐0 | 2025-03-24 |
-| [jared0612.github.io](https://github.com/jared0612/jared0612.github.io) | No description | HTML | ⭐0 | 2025-03-03 |
 | [awesome-iot](https://github.com/jared0612/awesome-iot) | No description | - | ⭐0 | 2025-02-26 |
-| [visual-git-guide](https://github.com/jared0612/visual-git-guide) | A visual guide to git. | - | ⭐0 | 2024-12-26 |
+| [onePiece](https://github.com/jared0612/onePiece) | No description | - | ⭐0 | 2024-01-29 |
 
 ---
 
@@ -47,8 +47,8 @@
 
 ## 📅 Recent Activity
 
--  2026-07-13: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news)
--  2026-07-12: Pushed [jared0612](https://github.com/jared0612/jared0612)
+-  2026-07-14: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news)
+-  2026-07-14: Pushed [jared0612](https://github.com/jared0612/jared0612)
 -  2026-07-06: Pushed [proxygo](https://github.com/jared0612/proxygo)
 -  2026-05-28: Pushed [emulationWORK](https://github.com/jared0612/emulationWORK)
 -  2026-05-23: Pushed [mynotes](https://github.com/jared0612/mynotes)
@@ -60,4 +60,4 @@
 
 ---
 
-**🎄 Joke:** Why did the programmer hang a star on the Christmas tree? Because they finally got their git branches to merge without conflicts — and it was the only thing that could `git push` all the way to the top! 🎄
+**🎄 Joke:** Why did the programmer's Christmas dinner get rejected? Because they tried to `git merge` the turkey and the gravy, but Santa said the pull request needed more stuffing! 🎄
