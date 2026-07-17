@@ -15,8 +15,8 @@
 
 | **Repository** | **Description** | **Language** | **Stars** | **Last Push** |
 |---|---|---|---|---|
-| [daily-ai-news](https://github.com/jared0612/daily-ai-news) | 每日 AI 大事记 - 前一天 AI 领域重要动态汇总，自动生成并通过 GitHub Pages 访问 | HTML | ⭐0 | 2026-07-15 |
-| [jared0612](https://github.com/jared0612/jared0612) | No description | JavaScript | ⭐0 | 2026-07-15 |
+| [daily-ai-news](https://github.com/jared0612/daily-ai-news) | 每日 AI 大事记 - 前一天 AI 领域重要动态汇总，自动生成并通过 GitHub Pages 访问 | HTML | ⭐0 | 2026-07-16 |
+| [jared0612](https://github.com/jared0612/jared0612) | No description | JavaScript | ⭐0 | 2026-07-16 |
 | [proxygo](https://github.com/jared0612/proxygo) | No description | Python | ⭐0 | 2026-07-06 |
 | [emulationWORK](https://github.com/jared0612/emulationWORK) | No description | HTML | ⭐0 | 2026-05-28 |
 | [mynotes](https://github.com/jared0612/mynotes) | 边看视频边记笔记的桌面应用 - Video note-taking app built with React + Vite + Express | JavaScript | ⭐0 | 2026-05-23 |
@@ -27,9 +27,8 @@
 | [blog](https://github.com/jared0612/blog) | No description | HTML | ⭐0 | 2026-03-14 |
 | [project](https://github.com/jared0612/project) | No description | Makefile | ⭐0 | 2026-01-20 |
 | [practiceCPP](https://github.com/jared0612/practiceCPP) | No description | C | ⭐0 | 2025-03-24 |
+| [jared0612.github.io](https://github.com/jared0612/jared0612.github.io) | No description | HTML | ⭐0 | 2025-03-03 |
 | [awesome-iot](https://github.com/jared0612/awesome-iot) | No description | - | ⭐0 | 2025-02-26 |
-| [visual-git-guide](https://github.com/jared0612/visual-git-guide) | A visual guide to git. | - | ⭐0 | 2023-02-16 |
-
 ---
 
 ## 📊 My GitHub Stats
@@ -40,23 +39,22 @@
 - ⭐ **Total Stars:** 5
 - 👥 **Followers:** 2
 - 👣 **Following:** 32
-- 🔥 **Starred:** 129
+- 🔥 **Starred:** 131
 
 ---
 
 ## 📅 Recent Activity
 
--  2026-07-15: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news)
--  2026-07-15: Pushed [jared0612](https://github.com/jared0612/jared0612)
--  2026-07-06: Pushed [proxygo](https://github.com/jared0612/proxygo)
--  2026-05-28: Pushed [emulationWORK](https://github.com/jared0612/emulationWORK)
--  2026-05-23: Pushed [mynotes](https://github.com/jared0612/mynotes)
--  2026-05-14: Pushed [2027-Math1-Study-Notes](https://github.com/jared0612/2027-Math1-Study-Notes)
--  2026-05-14: Pushed [awesome-developer](https://github.com/jared0612/awesome-developer)
--  2026-05-09: Pushed [Chatbox-with-deepseek](https://github.com/jared0612/Chatbox-with-deepseek)
--  2026-04-01: Pushed [common](https://github.com/jared0612/common)
--  2026-03-14: Pushed [blog](https://github.com/jared0612/blog)
-
+- 2026-07-16: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news)
+- 2026-07-16: Pushed [jared0612](https://github.com/jared0612/jared0612)
+- 2026-07-06: Pushed [proxygo](https://github.com/jared0612/proxygo)
+- 2026-05-28: Pushed [emulationWORK](https://github.com/jared0612/emulationWORK)
+- 2026-05-23: Pushed [mynotes](https://github.com/jared0612/mynotes)
+- 2026-05-14: Pushed [2027-Math1-Study-Notes](https://github.com/jared0612/2027-Math1-Study-Notes)
+- 2026-05-14: Pushed [awesome-developer](https://github.com/jared0612/awesome-developer)
+- 2026-05-09: Pushed [Chatbox-with-deepseek](https://github.com/jared0612/Chatbox-with-deepseek)
+- 2026-04-01: Pushed [common](https://github.com/jared0612/common)
+- 2026-03-14: Pushed [blog](https://github.com/jared0612/blog)
 ---
 
-**🎄 Joke:** Why do programmers hate Christmas? Because every time they try to iterate through the twelve days, they accidentally implement an off-by-one error and miss the partridge in a pear tree! 🎄
+**🎄 Joke:** Why do Santa's helpers love debugging? Because they always say 'Ho Ho Ho' and step through the stack — and if they find a bug, they just reindeerect the flow! 🎄
