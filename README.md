@@ -15,8 +15,8 @@
 
 | **Repository** | **Description** | **Language** | **Stars** | **Last Push** |
 |---|---|---|---|---|
-| [daily-ai-news](https://github.com/jared0612/daily-ai-news) | 每日 AI 大事记 - 前一天 AI 领域重要动态汇总，自动生成并通过 GitHub Pages 访问 | HTML | ⭐0 | 2026-07-17 |
-| [jared0612](https://github.com/jared0612/jared0612) | No description | JavaScript | ⭐0 | 2026-07-17 |
+| [daily-ai-news](https://github.com/jared0612/daily-ai-news) | 每日 AI 大事记 - 前一天 AI 领域重要动态汇总，自动生成并通过 GitHub Pages 访问 | HTML | ⭐0 | 2026-07-18 |
+| [jared0612](https://github.com/jared0612/jared0612) | No description | JavaScript | ⭐0 | 2026-07-18 |
 | [proxygo](https://github.com/jared0612/proxygo) | No description | Python | ⭐0 | 2026-07-06 |
 | [emulationWORK](https://github.com/jared0612/emulationWORK) | No description | HTML | ⭐0 | 2026-05-28 |
 | [mynotes](https://github.com/jared0612/mynotes) | 边看视频边记笔记的桌面应用 - Video note-taking app built with React + Vite + Express | JavaScript | ⭐0 | 2026-05-23 |
@@ -30,6 +30,9 @@
 | [practiceCPP](https://github.com/jared0612/practiceCPP) | No description | C | ⭐0 | 2025-03-24 |
 | [awesome-iot](https://github.com/jared0612/awesome-iot) | No description | - | ⭐0 | 2025-02-26 |
 | [onePiece](https://github.com/jared0612/onePiece) | No description | - | ⭐0 | 2024-01-29 |
+| [teach-myself-cpp](https://github.com/jared0612/teach-myself-cpp) | 自学cpp | - | ⭐0 | 2023-04-11 |
+| [picture](https://github.com/jared0612/picture) | No description | - | ⭐0 | 2022-03-29 |
+| [dragon](https://github.com/jared0612/dragon) | No description | - | ⭐0 | 2019-04-03 |
 
 ---
 
@@ -39,7 +42,7 @@
 
 - 🏗️ **Repositories:** 46
 - ⭐ **Total Stars:** 5
-- 👥 **Followers:** 2
+- 👥 **Followers:** 3
 - 👣 **Following:** 32
 - 🔥 **Starred:** 131
 
@@ -47,6 +50,7 @@
 
 ## 📅 Recent Activity
 
+- 2026-07-18: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612)
 - 2026-07-17: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612)
 - 2026-07-16: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612)
 - 2026-07-15: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612)
@@ -59,10 +63,20 @@
 - 2026-07-08: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612)
 - 2026-07-07: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612)
 - 2026-07-06: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612), [proxygo](https://github.com/jared0612/proxygo)
+- 2026-07-05: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612)
+- 2026-07-04: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612)
+- 2026-07-03: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612)
+- 2026-07-02: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612)
+- 2026-07-01: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612)
+- 2026-06-30: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612)
+- 2026-06-29: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612)
+- 2026-06-28: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612)
+- 2026-06-27: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612)
+- 2026-06-26: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news)
 - 2026-07-17: Starred [editor](https://github.com/pascalorg/editor)
 - 2026-07-06: Created [proxygo](https://github.com/jared0612/proxygo)
 - 2026-07-04: Starred [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
 
 ---
 
-**🎄 Joke:** Why does Santa prefer Git over SVN? Because with `git rebase` he can neatly stack all his deliveries onto the master branch before the big night! 🎄
+**🎄 Joke:** Why did Santa switch to CI/CD? So his elves could automate the whole gift pipeline — `git push` to the North Pole triggers a deploy straight down the chimney! 🎄
