@@ -15,8 +15,8 @@
 
 | **Repository** | **Description** | **Language** | **Stars** | **Last Push** |
 |---|---|---|---|---|
-| [daily-ai-news](https://github.com/jared0612/daily-ai-news) | 每日 AI 大事记 - 前一天 AI 领域重要动态汇总，自动生成并通过 GitHub Pages 访问 | HTML | ⭐0 | 2026-07-18 |
-| [jared0612](https://github.com/jared0612/jared0612) | No description | JavaScript | ⭐0 | 2026-07-18 |
+| [daily-ai-news](https://github.com/jared0612/daily-ai-news) | 每日 AI 大事记 - 前一天 AI 领域重要动态汇总，自动生成并通过 GitHub Pages 访问 | HTML | ⭐0 | 2026-07-19 |
+| [jared0612](https://github.com/jared0612/jared0612) | No description | JavaScript | ⭐0 | 2026-07-19 |
 | [proxygo](https://github.com/jared0612/proxygo) | No description | Python | ⭐0 | 2026-07-06 |
 | [emulationWORK](https://github.com/jared0612/emulationWORK) | No description | HTML | ⭐0 | 2026-05-28 |
 | [mynotes](https://github.com/jared0612/mynotes) | 边看视频边记笔记的桌面应用 - Video note-taking app built with React + Vite + Express | JavaScript | ⭐0 | 2026-05-23 |
@@ -25,13 +25,15 @@
 | [Chatbox-with-deepseek](https://github.com/jared0612/Chatbox-with-deepseek) | 支持通用OpenAPI的AI聊天界面，支持实时对话和流式响应。 | JavaScript | ⭐5 | 2026-05-09 |
 | [common](https://github.com/jared0612/common) | 开发常用配置文件 | Shell | ⭐0 | 2026-04-01 |
 | [blog](https://github.com/jared0612/blog) | No description | HTML | ⭐0 | 2026-03-14 |
-| [jared0612.github.io](https://github.com/jared0612/jared0612.github.io) | No description | HTML | ⭐0 | 2026-03-13 |
+| [jared0612.github.io](https://github.com/jared0612/jared0612.github.io) | No description | HTML | ⭐0 | 2025-03-03 |
 | [project](https://github.com/jared0612/project) | No description | Makefile | ⭐0 | 2026-01-20 |
 | [practiceCPP](https://github.com/jared0612/practiceCPP) | No description | C | ⭐0 | 2025-03-24 |
 | [awesome-iot](https://github.com/jared0612/awesome-iot) | No description | - | ⭐0 | 2025-02-26 |
+| [visual-git-guide](https://github.com/jared0612/visual-git-guide) | A visual guide to git. | - | ⭐0 | 2024-12-26 |
 | [onePiece](https://github.com/jared0612/onePiece) | No description | - | ⭐0 | 2024-01-29 |
-| [teach-myself-cpp](https://github.com/jared0612/teach-myself-cpp) | 自学cpp | - | ⭐0 | 2023-04-11 |
-| [picture](https://github.com/jared0612/picture) | No description | - | ⭐0 | 2022-03-29 |
+| [teach-myself-cpp](https://github.com/jared0612/teach-myself-cpp) | 自学cpp | - | ⭐0 | 2024-01-18 |
+| [workflow](https://github.com/jared0612/workflow) | C++ Parallel Computing and Asynchronous Networking Engine | - | ⭐0 | 2023-04-22 |
+| [opencv](https://github.com/jared0612/opencv) | Open Source Computer Vision Library | - | ⭐0 | 2023-04-11 |
 | [dragon](https://github.com/jared0612/dragon) | No description | - | ⭐0 | 2019-04-03 |
 
 ---
@@ -50,8 +52,9 @@
 
 ## 📅 Recent Activity
 
+- 2026-07-19: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612)
 - 2026-07-18: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612)
-- 2026-07-17: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612)
+- 2026-07-17: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612) | Starred [editor](https://github.com/pascalorg/editor)
 - 2026-07-16: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612)
 - 2026-07-15: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612)
 - 2026-07-14: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612)
@@ -64,7 +67,7 @@
 - 2026-07-07: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612)
 - 2026-07-06: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612), [proxygo](https://github.com/jared0612/proxygo)
 - 2026-07-05: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612)
-- 2026-07-04: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612)
+- 2026-07-04: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612) | Starred [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
 - 2026-07-03: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612)
 - 2026-07-02: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612)
 - 2026-07-01: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612)
@@ -73,10 +76,7 @@
 - 2026-06-28: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612)
 - 2026-06-27: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612)
 - 2026-06-26: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news)
-- 2026-07-17: Starred [editor](https://github.com/pascalorg/editor)
-- 2026-07-06: Created [proxygo](https://github.com/jared0612/proxygo)
-- 2026-07-04: Starred [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
 
 ---
 
-**🎄 Joke:** Why did Santa switch to CI/CD? So his elves could automate the whole gift pipeline — `git push` to the North Pole triggers a deploy straight down the chimney! 🎄
+**🎄 Joke:** Why do programmers prefer Advent of Code over Christmas carols? Because every December they get to `grep` their way through an advent calendar — and when they finally solve Day 25, they can finally `exit` the holiday season and `return` to normal life! 🎄
