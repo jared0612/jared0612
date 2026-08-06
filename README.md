@@ -15,8 +15,8 @@
 
 | **Repository** | **Description** | **Language** | **Stars** | **Last Push** |
 |---|---|---|---|---|
-| [daily-ai-news](https://github.com/jared0612/daily-ai-news) | 每日 AI 大事记 - 前一天 AI 领域重要动态汇总，自动生成并通过 GitHub Pages 访问 | HTML | ⭐0 | 2026-07-25 |
-| [jared0612](https://github.com/jared0612/jared0612) | No description | JavaScript | ⭐0 | 2026-07-25 |
+| [daily-ai-news](https://github.com/jared0612/daily-ai-news) | 每日 AI 大事记 - 前一天 AI 领域重要动态汇总，自动生成并通过 GitHub Pages 访问 | HTML | ⭐0 | 2026-08-04 |
+| [jared0612](https://github.com/jared0612/jared0612) | No description | JavaScript | ⭐0 | 2026-07-26 |
 | [proxygo](https://github.com/jared0612/proxygo) | No description | Python | ⭐0 | 2026-07-06 |
 | [emulationWORK](https://github.com/jared0612/emulationWORK) | No description | HTML | ⭐0 | 2026-05-28 |
 | [mynotes](https://github.com/jared0612/mynotes) | 边看视频边记笔记的桌面应用 - Video note-taking app built with React + Vite + Express | JavaScript | ⭐0 | 2026-05-23 |
@@ -27,10 +27,10 @@
 | [blog](https://github.com/jared0612/blog) | No description | HTML | ⭐0 | 2026-03-14 |
 | [project](https://github.com/jared0612/project) | No description | Makefile | ⭐0 | 2026-01-20 |
 | [practiceCPP](https://github.com/jared0612/practiceCPP) | No description | C | ⭐0 | 2025-03-24 |
-| [jared0612.github.io](https://github.com/jared0612/jared0612.github.io) | No description | HTML | ⭐0 | 2025-03-03 |
+| [jared0612.github.io](https://github.com/jared0612/jared0612.github.io) | No description | HTML | ⭐0 | 2026-03-13 |
 | [awesome-iot](https://github.com/jared0612/awesome-iot) | No description | - | ⭐0 | 2025-02-26 |
 | [onePiece](https://github.com/jared0612/onePiece) | No description | - | ⭐0 | 2024-01-29 |
-| [teach-myself-cpp](https://github.com/jared0612/teach-myself-cpp) | 自学cpp | - | ⭐0 | 2024-01-18 |
+| [teach-myself-cpp](https://github.com/jared0612/teach-myself-cpp) | 自学cpp | - | ⭐0 | 2023-04-11 |
 | [picture](https://github.com/jared0612/picture) | No description | - | ⭐0 | 2022-03-29 |
 | [dragon](https://github.com/jared0612/dragon) | No description | - | ⭐0 | 2019-04-03 |
 
@@ -50,14 +50,14 @@
 
 ## 📅 Recent Activity
 
-- 2026-07-27: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612)
+- 2026-08-04: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news)
+- 2026-07-30: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news)
 - 2026-07-26: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612)
 - 2026-07-25: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612)
 - 2026-07-24: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612)
 - 2026-07-23: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612)
 - 2026-07-22: Pushed [jared0612](https://github.com/jared0612/jared0612)
-- 2026-07-21: Pushed [daily-ai-news](https://github.com/jared0612/daily-ai-news), [jared0612](https://github.com/jared0612/jared0612)
 
 ---
 
-**🎄 Joke:** Why did the programmer's Christmas code crash? Because they wrote `git commit -m "Santa's in the building"` but their colleagues did `git rebase -i HEAD~10` and accidentally squashed Santa into the root commit — leaving only a coal exception in the production logs! 🎄
+**🎄 Joke:** Why did the programmer decorate their Christmas tree with LEDs and capacitors? Because they wanted a holiday circuit that even Santa's debugger couldn't crash — but the elves still filed a bug report: `Error 404: Christmas present not found in heap`! 🎄
